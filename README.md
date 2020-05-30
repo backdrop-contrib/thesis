@@ -26,7 +26,7 @@ Usage
 
 Open the file `css/skin-thesis.css`, and add your styles.
 
-## Override a Basis style
+### Override a Basis style
 Example: Override Basis' blue link color with a pink one.
 
 ```
@@ -35,7 +35,7 @@ a {
 }
 ```
 
-## Add your own custom style
+### Add your own custom style
 Example: Provide the main layout wrapper with a light grey background.
 
 ```
