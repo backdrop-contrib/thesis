@@ -1,0 +1,9 @@
+type = theme
+name = Thesis
+description = A sub-theme of Basis, the default front-end theme for Backdrop CMS.
+backdrop = 1.x
+base theme = basis
+screenshot = screenshot.png
+
+; Add theme CSS files
+stylesheets[all][] = css/skin-thesis.css
